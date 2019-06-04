@@ -1,2 +1,2 @@
 # Kaggle
-It has my kaggle Kernels
+It has my kaggle competitions Kernels.
